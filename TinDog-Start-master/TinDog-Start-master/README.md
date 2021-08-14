@@ -1,1 +1,1 @@
-TinDog is simple one page website to demonstrate bootstrap and css.
+TinDog is simple single page website to demonstrate bootstrap and css.
